@@ -8,5 +8,5 @@ setup(name='Garmin Extractor',
       author='Gustav Tiger',
       url='https://github.com/Tigge/Garmin-Forerunner-610-Extractor',
       install_requires=['pyusb==1.0.0a3'],
-      packages=['garminextractor'],
+      packages=['garminextractor','ant'],
      )
